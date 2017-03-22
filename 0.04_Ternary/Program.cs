@@ -10,7 +10,8 @@ namespace _0._04_Ternary
     {
         static void Main(string[] args)
         {
-
+            //Ternary Operator 
+            //Compares 
             
             int number = 10;
             if (number == 7)
