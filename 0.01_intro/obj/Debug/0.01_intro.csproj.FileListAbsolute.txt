@@ -1,0 +1,6 @@
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.01_intro\bin\Debug\0.01_intro.exe.config
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.01_intro\bin\Debug\0.01_intro.exe
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.01_intro\bin\Debug\0.01_intro.pdb
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.01_intro\obj\Debug\0.01_intro.csprojResolveAssemblyReference.cache
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.01_intro\obj\Debug\0.01_intro.exe
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.01_intro\obj\Debug\0.01_intro.pdb

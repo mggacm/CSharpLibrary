@@ -1,0 +1,6 @@
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.02_BasicTypesChallenges\bin\Debug\0.02_BasicTypesChallenges.exe.config
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.02_BasicTypesChallenges\bin\Debug\0.02_BasicTypesChallenges.exe
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.02_BasicTypesChallenges\bin\Debug\0.02_BasicTypesChallenges.pdb
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.02_BasicTypesChallenges\obj\Debug\0.02_BasicTypesChallenges.csprojResolveAssemblyReference.cache
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.02_BasicTypesChallenges\obj\Debug\0.02_BasicTypesChallenges.exe
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.02_BasicTypesChallenges\obj\Debug\0.02_BasicTypesChallenges.pdb
