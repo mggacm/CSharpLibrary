@@ -1,0 +1,6 @@
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditional\bin\Debug\0.04_Conditional.exe.config
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditional\bin\Debug\0.04_Conditional.exe
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditional\bin\Debug\0.04_Conditional.pdb
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditional\obj\Debug\0.04_Conditional.csprojResolveAssemblyReference.cache
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditional\obj\Debug\0.04_Conditional.exe
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditional\obj\Debug\0.04_Conditional.pdb

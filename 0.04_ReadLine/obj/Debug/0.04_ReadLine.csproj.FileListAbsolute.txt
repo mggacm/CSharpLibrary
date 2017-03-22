@@ -1,0 +1,6 @@
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_ReadLine\bin\Debug\0.04_ReadLine.exe.config
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_ReadLine\bin\Debug\0.04_ReadLine.exe
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_ReadLine\bin\Debug\0.04_ReadLine.pdb
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_ReadLine\obj\Debug\0.04_ReadLine.csprojResolveAssemblyReference.cache
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_ReadLine\obj\Debug\0.04_ReadLine.exe
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_ReadLine\obj\Debug\0.04_ReadLine.pdb

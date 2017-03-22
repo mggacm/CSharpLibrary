@@ -1,0 +1,5 @@
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_switch\bin\Debug\0.04_switch.exe.config
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_switch\bin\Debug\0.04_switch.exe
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_switch\bin\Debug\0.04_switch.pdb
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_switch\obj\Debug\0.04_switch.exe
+c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_switch\obj\Debug\0.04_switch.pdb
