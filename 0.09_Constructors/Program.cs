@@ -10,6 +10,18 @@ namespace _0._09_Constructors
     {
         static void Main(string[] args)
         {
+            Student devan = new Student();
+            devan.FirstName = "Devan";
+            devan.LastName = "Peetz";
+            devan.Age = 25;
+
+            Student shelby = new Student("Shelby");
+
+            Student charlesMichael = new Student("Charles", "Michael", 30, "Assassin");
+            Student jeremiah = new Student("Jeremiah", "Miller", 30, "Padawan");
+
+
+            Console.ReadLine();
         }
     }
 }

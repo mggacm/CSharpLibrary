@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E961AB9F-6632-44BB-AC07-9B4072293825}</ProjectGuid>
+    <ProjectGuid>{25B59A1E-145D-4122-A6A8-C7B858D00840}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_0._09_Constructors</RootNamespace>
-    <AssemblyName>0.09_Constructors</AssemblyName>
+    <RootNamespace>_0._11_ArraysOfObjects</RootNamespace>
+    <AssemblyName>0.11_ArraysOfObjects</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,9 +42,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Country.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Student.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
