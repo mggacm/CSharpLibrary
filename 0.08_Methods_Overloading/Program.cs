@@ -14,7 +14,7 @@ namespace _0._08_Methods_Overloading
             zanado.Name = "Zanado";
             zanado.Attack();
             zanado.Attack("Stick");
-            zanado.Attack("Wooden Sword", 5);
+            zanado.Attack("Wooden Sword", 10);
 
             Console.ReadLine();
         }
