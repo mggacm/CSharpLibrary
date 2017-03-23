@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.06_Challenge", "0.06_Chal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.07_Methods", "0.07_Methods\0.07_Methods.csproj", "{E91741BF-CB81-4E0E-9C53-D8C892F44483}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.07_Methods_Challenge", "0.07_Methods_Challenge\0.07_Methods_Challenge.csproj", "{4403DF30-2609-4DE3-9A2E-D9935244E164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.08_Methods_Overloading", "0.08_Methods_Overloading\0.08_Methods_Overloading.csproj", "{A1A5F91E-80A3-4198-97EF-1A3F2D4E6577}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{E91741BF-CB81-4E0E-9C53-D8C892F44483}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E91741BF-CB81-4E0E-9C53-D8C892F44483}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E91741BF-CB81-4E0E-9C53-D8C892F44483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4403DF30-2609-4DE3-9A2E-D9935244E164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4403DF30-2609-4DE3-9A2E-D9935244E164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4403DF30-2609-4DE3-9A2E-D9935244E164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4403DF30-2609-4DE3-9A2E-D9935244E164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1A5F91E-80A3-4198-97EF-1A3F2D4E6577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A5F91E-80A3-4198-97EF-1A3F2D4E6577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A5F91E-80A3-4198-97EF-1A3F2D4E6577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A5F91E-80A3-4198-97EF-1A3F2D4E6577}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
