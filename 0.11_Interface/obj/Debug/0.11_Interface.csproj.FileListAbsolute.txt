@@ -1,0 +1,6 @@
+C:\Users\Melody\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.11_Interface\bin\Debug\0.11_Interface.exe.config
+C:\Users\Melody\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.11_Interface\bin\Debug\0.11_Interface.exe
+C:\Users\Melody\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.11_Interface\bin\Debug\0.11_Interface.pdb
+C:\Users\Melody\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.11_Interface\obj\Debug\0.11_Interface.csprojResolveAssemblyReference.cache
+C:\Users\Melody\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.11_Interface\obj\Debug\0.11_Interface.exe
+C:\Users\Melody\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.11_Interface\obj\Debug\0.11_Interface.pdb
