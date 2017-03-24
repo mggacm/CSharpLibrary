@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.10_ForEachLoops", "0.10_F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.11_ArraysOfObjects", "0.11_ArraysOfObjects\0.11_ArraysOfObjects.csproj", "{25B59A1E-145D-4122-A6A8-C7B858D00840}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.10_Collections_Dictonaries", "0.10_Collections_Dictonaries\0.10_Collections_Dictonaries.csproj", "{377F8CD7-B123-4FF1-87EE-053D6A011417}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{25B59A1E-145D-4122-A6A8-C7B858D00840}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25B59A1E-145D-4122-A6A8-C7B858D00840}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25B59A1E-145D-4122-A6A8-C7B858D00840}.Release|Any CPU.Build.0 = Release|Any CPU
+		{377F8CD7-B123-4FF1-87EE-053D6A011417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{377F8CD7-B123-4FF1-87EE-053D6A011417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{377F8CD7-B123-4FF1-87EE-053D6A011417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{377F8CD7-B123-4FF1-87EE-053D6A011417}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

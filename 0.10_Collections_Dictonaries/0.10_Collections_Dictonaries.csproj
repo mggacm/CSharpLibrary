@@ -7,7 +7,7 @@
     <ProjectGuid>{377F8CD7-B123-4FF1-87EE-053D6A011417}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_0._10_Collections_Dictonaries</RootNamespace>
-    <AssemblyName>_0._10_Collections_Dictonaries</AssemblyName>
+    <AssemblyName>0.10_Collections_Dictonaries</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
