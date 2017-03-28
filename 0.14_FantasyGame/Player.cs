@@ -41,7 +41,7 @@ namespace _0._14_FantasyGame
             switch (t)    //If spicifc
             {
                 case 0:
-                    Console.WriteLine("You are an Assassin.");
+                    //Console.WriteLine("You are an Assassin.");
                     return this.Type = CharacterType.Assassin;
                     
                 case 1:

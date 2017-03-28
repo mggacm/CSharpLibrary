@@ -21,7 +21,7 @@ namespace _0._14_FantasyGame
                                "2: Professsor\n" +
                                "3: HorseMange\n" +
                                "4: TaxMan\n" +
-                               "5: Human\n");
+                               "5: Human");
             int playerType = int.Parse(Console.ReadLine());
 
             Player player = new Player(name, clan);
@@ -30,15 +30,21 @@ namespace _0._14_FantasyGame
             player.ChooseType(playerType);
             Console.WriteLine(player.ToString());
 
-            //Enemy
-            Enemy zard = new Enemy();
-            zard.Name = "Zard";           
-            zard.Insult();
+            
+            
+            Console.WriteLine();
 
 
             //Jerk enemy
-            Jerk airHead = new Jerk("AirHead", "BaseBall-Bat", 50);
-            
+            Jerk jerk = new Jerk();
+                 jerk.Insult();
+                 jerk.Explain();
+                 jerk.Attack(player); //Check out in code
+            Console.WriteLine(player.CurrentPower);
+            Console.WriteLine("this is a new attack");
+
+                 jerk.Attack(player);
+            Console.WriteLine(player.CurrentPower);
 
 
             Console.ReadLine();

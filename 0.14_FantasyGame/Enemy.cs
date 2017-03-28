@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace _0._14_FantasyGame
 {
-    class Enemy
+    abstract class Enemy
     {   //Properties
         protected ArrayList insult = new ArrayList { "noob", "buster", "wimp" };
         protected Random rnd = new Random();
@@ -18,7 +18,13 @@ namespace _0._14_FantasyGame
         public virtual void Insult()
         {                        
             int r = rnd.Next(0, insult.Count);
-            Console.WriteLine(Name + " called you: \"{0}\" and  said: \"Yo mama.\"", insult[r]);
+            Console.WriteLine(Name + " called you: \"{0}\" and  said: \"Yo mama.\" power level is: {1}", insult[r], this.PowerLevel);
+        }
+
+        public void Attack(Player player)
+        {
+            Console.WriteLine("{0} power is at {1}",player.PlayerName, player.CurrentPower);
+            player.CurrentPower -= 15; 
         }
 
 
