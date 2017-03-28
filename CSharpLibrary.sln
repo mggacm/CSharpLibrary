@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.11_Interface", "0.11_Inte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.12_AccessModifiers", "0.12_AccessModifiers\0.12_AccessModifiers.csproj", "{A3954F4C-CE5F-4916-A80A-B87504030C77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.13_GettersAndSetters", "0.13_GettersAndSetters\0.13_GettersAndSetters.csproj", "{385C85C6-8470-4243-8BFC-9F91705ADE99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.14_FantasyGame", "0.14_FantasyGame\0.14_FantasyGame.csproj", "{D1070E7A-B099-49C3-B396-E7A1455B4136}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +163,14 @@ Global
 		{A3954F4C-CE5F-4916-A80A-B87504030C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3954F4C-CE5F-4916-A80A-B87504030C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3954F4C-CE5F-4916-A80A-B87504030C77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{385C85C6-8470-4243-8BFC-9F91705ADE99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{385C85C6-8470-4243-8BFC-9F91705ADE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{385C85C6-8470-4243-8BFC-9F91705ADE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{385C85C6-8470-4243-8BFC-9F91705ADE99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1070E7A-B099-49C3-B396-E7A1455B4136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1070E7A-B099-49C3-B396-E7A1455B4136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1070E7A-B099-49C3-B396-E7A1455B4136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1070E7A-B099-49C3-B396-E7A1455B4136}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

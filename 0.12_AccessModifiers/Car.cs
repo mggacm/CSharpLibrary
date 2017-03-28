@@ -9,8 +9,9 @@ namespace _0._12_AccessModifiers
     class Car
     {
         protected string  Make { get; set; }
-        protected int Year { get; set; }
         protected string Model { get; set; }
+        protected int Year { get; set; }
+        
 
         protected string CarDetails()
         {
@@ -21,7 +22,7 @@ namespace _0._12_AccessModifiers
     class Acura : Car
     {
         // propfull + tab+tab
-        private int price;
+        public int price;
 
         public Acura(string model, int year, int price)
         {
