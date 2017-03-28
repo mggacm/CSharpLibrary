@@ -8,7 +8,15 @@ namespace _0._14_FantasyGame
 {
     class Jerk : Enemy
     {
-        //Borrow
+        Dictionary<string, int> Attacks = new Dictionary<string, int> {
+                {"Head-butt", 3 },
+                {"Bite", 5},
+                {"Mallet", 7},
+            };
+
+
+
+        //Constructor
         public Jerk()
         {
             this.Name = "AirHead";
@@ -25,7 +33,7 @@ namespace _0._14_FantasyGame
 
       
 
-        //Method
+        //Methods
         public void Explain()
         {
             this.AddedPowerLevel = this.PowerLevel + AddedPowerLevel;
@@ -35,9 +43,13 @@ namespace _0._14_FantasyGame
         public override void Insult()
         {
             int r = rnd.Next(0, insult.Count);
-            Console.WriteLine("I am {0} and {1}", this.Name, insult[r]);
+            Console.WriteLine("\"I'm going to crush you {0}.\"", insult[r]);
+            
         }
 
-
+        public void JerkAttack(Player p)
+        {
+            Attack(p, Attacks, this.Name);
+        }
     }
 }

@@ -15,16 +15,10 @@ namespace _0._14_FantasyGame
         Human = 5
     }
     class Player
-    {   //Properties
-        public string PlayerName { get; set; }
-        public string Clan { get; set; }
-        //public string BattleCry { get; set; }
-        public int CurrentPower { get; set; }
-        public CharacterType Type { get; set; }
-
-        //Constructs
+    {  
+        //CONSTRUCTS
         //     <name>   <Prop1>     <Prop2>          <Prop3>
-        public Player(string name, string clanName, CharacterType type =CharacterType.HorseMange)
+        public Player(string name, string clanName, CharacterType type = CharacterType.HorseMange)
         {
             this.PlayerName = name;
             this.Clan = clanName;
@@ -33,9 +27,26 @@ namespace _0._14_FantasyGame
             this.Type = type;
 
         }
+
+        //Attack
+        Dictionary<string, int> Fighting = new Dictionary<string, int>
+        {
+                {"Punch", 5 },
+                {"Kick", 7 },
+                {"Stick", 10 },
+        };
+
+
+        //PROPERTIES    
+        protected Random rnd = new Random();
+        public string PlayerName { get; set; }
+        public string Clan { get; set; }
+        //public string BattleCry { get; set; }
+        public int CurrentPower { get; set; }
+        public CharacterType Type { get; set; }        
         
 
-        //Methods
+        //METHODS
         public CharacterType ChooseType(int t)
         {
             switch (t)    //If spicifc
@@ -74,18 +85,31 @@ namespace _0._14_FantasyGame
         {
             Console.WriteLine(this.PlayerName + " has " + this.CurrentPower + "% power.");
         }
-
-        public void Yell()
-        {
-            Console.WriteLine(PlayerName + " just yelled: \"LeeRyo Jinkins!\""); //Quoests in a string < \" >
-        }
-
+        
         public override string ToString()
         {
             return $"Player Name: {this.PlayerName}\nGamer Name: {this.Clan}\nPlayer Type: {this.Type}";
         }
 
+        public void PlayerAttack(Jerk jerk, Dictionary<string, int> dict, Object enemyName)
+        {
 
+
+            var singleAttack = dict.ElementAt(rnd.Next(dict.Count));
+            int attackVall = singleAttack.Value;
+            string attackName = singleAttack.Key;
+
+            Console.WriteLine("You attacked with {0} and deals {1} amount of damage.", attackName, attackVall);
+            jerk.PowerLevel -= attackVall;
+            Console.WriteLine("{0} power is at {1}%", jerk.Name, jerk.PowerLevel);
+            
+
+        }
+
+        public void PlayerAttack(Jerk jerk)
+        {
+            PlayerAttack(jerk, Fighting, this.PlayerName);
+        }
 
     }
 }

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Speech.Synthesis;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -9,7 +10,11 @@ namespace _0._14_FantasyGame
     class Program
     {
         static void Main(string[] args)
-        {
+        {                ////////////      WE ARE ROBIN vs COURT of OWLS    ////////////////
+            //SpeechSynthesizer talkingConsole = new SpeechSynthesizer();
+            //talkingConsole.Speak("what is your name?");
+
+
             //user input
             Console.WriteLine("What is your name?");
             string name = Console.ReadLine();
@@ -29,7 +34,7 @@ namespace _0._14_FantasyGame
             //player.ShowPower();
             player.ChooseType(playerType);
             Console.WriteLine(player.ToString());
-
+            Console.WriteLine("You are starting out with {0}Hp", player.CurrentPower);
             
             
             Console.WriteLine();
@@ -37,14 +42,50 @@ namespace _0._14_FantasyGame
 
             //Jerk enemy
             Jerk jerk = new Jerk();
-                 jerk.Insult();
-                 jerk.Explain();
-                 jerk.Attack(player); //Check out in code
-            Console.WriteLine(player.CurrentPower);
-            Console.WriteLine("this is a new attack");
+            Console.WriteLine("{0} came acrossed a jerk.", player.PlayerName);            
+            Console.WriteLine("He has: " + jerk.PowerLevel + "Hp his name is: {0}.",jerk.Name);
 
-                 jerk.Attack(player);
-            Console.WriteLine(player.CurrentPower);
+
+            while (true)
+            {
+                jerk.Insult();
+                Console.WriteLine("Do you want to fight? y/n");
+                string userAnswer = Console.ReadLine();
+                if (userAnswer == "y")
+                {
+                    jerk.JerkAttack(player);
+                    player.PlayerAttack(jerk);
+
+                    if (player.CurrentPower <= 0)
+                    {
+                        Console.WriteLine("you ded");
+                        break;
+                    }
+                    else if ((jerk.PowerLevel <= 0))
+                    {
+                        Console.WriteLine("You won.");
+                        break;
+                    }
+                    
+
+                }
+                else
+                {
+                    break;
+                }
+            }
+
+
+
+
+
+
+            Console.WriteLine("What would you like to do?");
+
+
+            
+
+                
 
 
             Console.ReadLine();
