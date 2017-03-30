@@ -21,19 +21,13 @@ namespace _0._17_LINQ                   //Laungue Intagretated N#### Querry
                 new UsedCar(){VIN = "G1", Make = "Toyota", Model = "4Runner", Price = 8700, Year = 2011},
             };
 
-            var bmws = from car in usedCars
-                      where car.Make == "BMW"
-                      select car;
-            foreach (var bmw in bmws)
-            {
-                Console.WriteLine("The {0} {1} is a nice car that costs: ${2}", bmw.Year, bmw.Make, bmw.Price);
-            }
-            Console.WriteLine("============");
 
-
+            Console.WriteLine("What is the most you'll spend on a car?");
+            int spend = 0;
+                spend = int.Parse(Console.ReadLine());
 
             var cars = from car in usedCars
-                       where car.Price <= 10000 //&& car.Price > 5000 //&& car.Make == "BMW"
+                       where car.Price < spend //&& car.Price > 5000 //&& car.Make == "BMW"
                        select car;
             foreach (var car in cars)
             {                                                                 //{2:C}  :C = "$#"
@@ -42,25 +36,39 @@ namespace _0._17_LINQ                   //Laungue Intagretated N#### Querry
             Console.WriteLine("============");
             Console.WriteLine("");
 
-            Console.WriteLine("LINQ with Lambda");
-            var toyotas = usedCars.Where(car => car.Make == "Toyota");          //Condensed
-            
-                foreach (var toyota in toyotas)
-            {
-                Console.WriteLine(toyota.Model);
-            }
+
+            //var bmws = from car in usedCars
+            //           where car.Make == "BMW"
+            //           select car;
+            //foreach (var bmw in bmws)
+            //{
+            //    Console.WriteLine("The {0} {1} is a nice car that costs: ${2}", bmw.Year, bmw.Make, bmw.Price);
+            //}
+            //Console.WriteLine("============");
 
 
-            var niceUsedCars = usedCars.Where(car => car.Price > 7500 && car.Make == "BMW" && car.Make == "Ford");
-            foreach (var niceUsedCar in niceUsedCars)
-            {
-                Console.WriteLine(niceUsedCar.Model);
-            }
 
 
-            Console.WriteLine("============");
+
+            //Console.WriteLine("LINQ with Lambda");
+            //var toyotas = usedCars.Where(car => car.Make == "Toyota");          //Condensed
+
+            //    foreach (var toyota in toyotas)
+            //{
+            //    Console.WriteLine(toyota.Model);
+            //}
+
+
+            //var niceUsedCars = usedCars.Where(car => car.Price > 7500 && car.Make == "BMW" && car.Make == "Ford");
+            //foreach (var niceUsedCar in niceUsedCars)
+            //{
+            //    Console.WriteLine(niceUsedCar.Model);
+            //}
+
+
+            //Console.WriteLine("============");
             Console.ReadLine();
-            Console.WriteLine("============");
+            //Console.WriteLine("============");
 
 
 
