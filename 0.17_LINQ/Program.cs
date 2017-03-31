@@ -31,7 +31,7 @@ namespace _0._17_LINQ                   //Laungue Intagretated N#### Querry
                        select car;
             foreach (var car in cars)
             {                                                                 //{2:C}  :C = "$#"
-                Console.WriteLine("The {0} {1} costs less $10,000 at a cost of: {2:C}", car.Year, car.Make, car.Price);
+                Console.WriteLine("The {0} {1} costs less than ${2} at a cost of: {3:C}", car.Year, car.Make, spend, car.Price);
             }
             Console.WriteLine("============");
             Console.WriteLine("");
