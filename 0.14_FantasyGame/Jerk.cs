@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _0._14_FantasyGame
 {
-    class Jerk : Enemy
+    class EnemySamurai : Enemy
     {
         Dictionary<string, int> Attacks = new Dictionary<string, int> {
                 {"Head-butt", 3 },
@@ -17,9 +17,9 @@ namespace _0._14_FantasyGame
 
 
         //Constructor
-        public Jerk()
+        public EnemySamurai()
         {
-            this.Name = "AirHead";
+            this.Name = "Zon";
             this.PowerLevel = 15;
 
         }

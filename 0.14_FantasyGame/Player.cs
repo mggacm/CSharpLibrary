@@ -8,17 +8,16 @@ namespace _0._14_FantasyGame
 {   public enum CharacterType
     {
         Assassin = 0,
-        BlitzenBlopper = 1,
-        Professsor = 2,
-        HorseMange = 3,
-        TaxMan = 4,
-        Human = 5
+        Berserker = 1,
+        Spy = 2,
+        Samurai = 3,
+    
     }
     class Player
     {  
         //CONSTRUCTS
         //     <name>   <Prop1>     <Prop2>          <Prop3>
-        public Player(string name, string clanName, CharacterType type = CharacterType.HorseMange)
+        public Player(string name, string clanName, CharacterType type = CharacterType.Samurai)
         {
             this.PlayerName = name;
             this.Clan = clanName;
@@ -33,7 +32,7 @@ namespace _0._14_FantasyGame
         {
                 {"Punch", 5 },
                 {"Kick", 7 },
-                {"Stick", 10 },
+                {"Sword", 13 },
         };
 
 
@@ -52,32 +51,24 @@ namespace _0._14_FantasyGame
             switch (t)    //If spicifc
             {
                 case 0:
-                    //Console.WriteLine("You are an Assassin.");
+                    //Console.WriteLine("You are an Ninja Assassin.");
                     return this.Type = CharacterType.Assassin;
                     
                 case 1:
-                    Console.WriteLine("You are a BlitzenBlopper.");
-                    return this.Type = CharacterType.BlitzenBlopper;
+                    //Console.WriteLine("You are a Berserker.");
+                    return this.Type = CharacterType.Berserker;
                    
                 case 2:
-                    Console.WriteLine("You are a Professor");
-                    return this.Type = CharacterType.Professsor;
+                    //Console.WriteLine("You are a Spy");
+                    return this.Type = CharacterType.Spy;
                    
                 case 3:
-                    Console.WriteLine("You are a HorseMange.");
-                    return this.Type = CharacterType.HorseMange;
-
-                case 4:
-                    Console.WriteLine("You are a TaxMan.");
-                    return this.Type = CharacterType.TaxMan;
-                    
-                case 5:
-                    Console.WriteLine("You are a Human.");
-                    return this.Type = CharacterType.Human;
-                    
+                    //Console.WriteLine("You are a Samurai.");
+                    return this.Type = CharacterType.Samurai;
+                                   
                 default:
-                    Console.WriteLine("You are a HorseMange.");
-                    return this.Type = CharacterType.HorseMange;
+                    Console.WriteLine("You are a Samurai.");
+                    return this.Type = CharacterType.Samurai;
                     
             }
         }
@@ -91,7 +82,7 @@ namespace _0._14_FantasyGame
             return $"Player Name: {this.PlayerName}\nGamer Name: {this.Clan}\nPlayer Type: {this.Type}";
         }
 
-        public void PlayerAttack(Jerk jerk, Dictionary<string, int> dict, Object enemyName)
+        public void PlayerAttack(EnemySamurai jerk, Dictionary<string, int> dict, Object enemyName)
         {
 
 
@@ -106,7 +97,7 @@ namespace _0._14_FantasyGame
 
         }
 
-        public void PlayerAttack(Jerk jerk)
+        public void PlayerAttack(EnemySamurai jerk)
         {
             PlayerAttack(jerk, Fighting, this.PlayerName);
         }

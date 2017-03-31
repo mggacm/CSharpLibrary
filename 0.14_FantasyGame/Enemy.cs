@@ -9,7 +9,7 @@ namespace _0._14_FantasyGame
 {
     abstract class Enemy
     {   //Properties
-        protected ArrayList insult = new ArrayList { "Pip-Squek", "Littlebird", "wimp" };
+        protected ArrayList insult = new ArrayList { "Piece of trash", "Turd", "Weakling" };
         protected Random rnd = new Random();
         public string Name { get; set; }
         public int PowerLevel { get; set; }
