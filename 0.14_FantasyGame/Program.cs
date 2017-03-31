@@ -48,12 +48,12 @@ namespace _0._14_FantasyGame
             {
                 if (choice == 0)    //FIGHT
                 {
-                    bool continueChoice = true;
 
+                    bool continueChoice = true;
                     EnemySamurai eSamurai = new EnemySamurai();
                     Console.WriteLine("{0} came acrossed a enemy.", player.PlayerName);
                     Console.WriteLine("He has: " + eSamurai.PowerLevel + "Hp his name is: {0}.", eSamurai.Name);
-                    while (continueChoice = true)
+                    while (continueChoice == true)
                     {
                         eSamurai.Insult();
                         Console.WriteLine("Do you want to fight? y/n");
@@ -67,26 +67,32 @@ namespace _0._14_FantasyGame
                             {
                                 Console.WriteLine("DISHONORED");
                                 continueChoice = false;
-                                break;
+                                
                             }
                             else if ((eSamurai.PowerLevel <= 0))
                             {
                                 Console.WriteLine("VICTORY");
                                 continueChoice = false;
                                 break;
+
                             }
-                            continueChoice = false;
-                            break;
+                            
+                            
                         }
                         else
                         {
                             Console.WriteLine("DISHONOR ON YOUR FAMILY");
+                            continueChoice = false;
                             break;
                         }
-                        continueChoice = false;
-                        choice = 3;
+                        continueChoice = false;                   
                         break;
                     }
+                    choice = 3;               ///////////////////////
+                }
+                if (choice == 4)
+                {
+
                 }
             } while (choice != 3);
             
