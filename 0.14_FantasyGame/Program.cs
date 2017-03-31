@@ -53,7 +53,7 @@ namespace _0._14_FantasyGame
                     EnemySamurai eSamurai = new EnemySamurai();
                     Console.WriteLine("{0} came acrossed a enemy.", player.PlayerName);
                     Console.WriteLine("He has: " + eSamurai.PowerLevel + "Hp his name is: {0}.", eSamurai.Name);
-                    while (true)
+                    while (continueChoice = true)
                     {
                         eSamurai.Insult();
                         Console.WriteLine("Do you want to fight? y/n");
@@ -67,14 +67,16 @@ namespace _0._14_FantasyGame
                             {
                                 Console.WriteLine("DISHONORED");
                                 continueChoice = false;
+                                break;
                             }
                             else if ((eSamurai.PowerLevel <= 0))
                             {
                                 Console.WriteLine("VICTORY");
                                 continueChoice = false;
+                                break;
                             }
                             continueChoice = false;
-
+                            break;
                         }
                         else
                         {
@@ -82,6 +84,8 @@ namespace _0._14_FantasyGame
                             break;
                         }
                         continueChoice = false;
+                        choice = 3;
+                        break;
                     }
                 }
             } while (choice != 3);
