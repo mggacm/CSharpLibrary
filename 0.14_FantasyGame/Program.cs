@@ -38,14 +38,17 @@ namespace _0._14_FantasyGame
             Console.WriteLine(player.ToString());
             Console.WriteLine("You are starting out with {0}Hp", player.CurrentPower);
             Console.WriteLine("");
-            Console.WriteLine("What do you want to do?\n" +
-                              "Option 0: Fight\n" +
-                              "Option 1: Farm\n" +
-                              "Option 2: Travel\n" +
-                              "Option 3: Quit");
-           int choice = Int32.Parse(Console.ReadLine());
+            int choice = 0;
             do
             {
+                Console.WriteLine("What do you want to do?\n" +
+                                 "Option 0: Fight\n" +
+                                 "Option 1: Farm\n" +
+                                 "Option 2: Travel\n" +
+                                 "Option 3: Quit");
+                 choice = Int32.Parse(Console.ReadLine());
+                Console.WriteLine("");
+
                 if (choice == 0)    //FIGHT
                 {
 
@@ -66,12 +69,14 @@ namespace _0._14_FantasyGame
                             if (player.CurrentPower <= 0)
                             {
                                 Console.WriteLine("DISHONORED");
+                                Console.WriteLine("");
                                 continueChoice = false;
                                 
                             }
                             else if ((eSamurai.PowerLevel <= 0))
                             {
                                 Console.WriteLine("VICTORY");
+                                Console.WriteLine("");
                                 continueChoice = false;
                                 break;
 
@@ -85,14 +90,15 @@ namespace _0._14_FantasyGame
                             continueChoice = false;
                             break;
                         }
-                        continueChoice = false;                   
-                        break;
+                        
                     }
-                    choice = 3;               ///////////////////////
+                                
                 }
-                if (choice == 4)
+                if (choice == 1)
                 {
-
+                    Console.WriteLine("You choose to live a peacefull life in the country tending to your farm.\nYou grow crops and raise animals. You die peacefully surrounded by family.");
+                    Console.WriteLine("You win.");
+                    break;
                 }
             } while (choice != 3);
             
