@@ -19,6 +19,7 @@ namespace _0._07_Constructors_base
 
             Person jenn = new Minor("Jenn", "akins", 17, true);
             jenn.DummyMethod();
+            
 
             Console.ReadLine();
 

@@ -3,3 +3,8 @@ C:\Users\Melody\documents\visual studio 2017\Projects\CSharpLibrary\0.11_ArraysO
 C:\Users\Melody\documents\visual studio 2017\Projects\CSharpLibrary\0.11_ArraysOfObjects\bin\Debug\0.11_ArraysOfObjects.pdb
 C:\Users\Melody\documents\visual studio 2017\Projects\CSharpLibrary\0.11_ArraysOfObjects\obj\Debug\0.11_ArraysOfObjects.exe
 C:\Users\Melody\documents\visual studio 2017\Projects\CSharpLibrary\0.11_ArraysOfObjects\obj\Debug\0.11_ArraysOfObjects.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.11_ArraysOfObjects\bin\Debug\0.11_ArraysOfObjects.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.11_ArraysOfObjects\bin\Debug\0.11_ArraysOfObjects.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.11_ArraysOfObjects\bin\Debug\0.11_ArraysOfObjects.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.11_ArraysOfObjects\obj\Debug\0.11_ArraysOfObjects.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.11_ArraysOfObjects\obj\Debug\0.11_ArraysOfObjects.pdb
