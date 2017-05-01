@@ -4,3 +4,9 @@ c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.02_BasicTy
 c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.02_BasicTypes\obj\Debug\0.02_BasicTypes.exe
 c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.02_BasicTypes\obj\Debug\0.02_BasicTypes.pdb
 c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.02_BasicTypes\obj\Debug\0.02_BasicTypes.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.02_BasicTypes\bin\Debug\0.02_BasicTypes.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.02_BasicTypes\bin\Debug\0.02_BasicTypes.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.02_BasicTypes\bin\Debug\0.02_BasicTypes.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.02_BasicTypes\obj\Debug\0.02_BasicTypes.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.02_BasicTypes\obj\Debug\0.02_BasicTypes.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.02_BasicTypes\obj\Debug\0.02_BasicTypes.pdb

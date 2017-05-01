@@ -3,3 +3,9 @@ C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.17_LINQ\bin\Debug\0.17_LINQ.exe
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.17_LINQ\bin\Debug\0.17_LINQ.pdb
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.17_LINQ\obj\Debug\0.17_LINQ.exe
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.17_LINQ\obj\Debug\0.17_LINQ.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.17_LINQ\bin\Debug\0.17_LINQ.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.17_LINQ\bin\Debug\0.17_LINQ.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.17_LINQ\bin\Debug\0.17_LINQ.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.17_LINQ\obj\Debug\0.17_LINQ.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.17_LINQ\obj\Debug\0.17_LINQ.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.17_LINQ\obj\Debug\0.17_LINQ.pdb

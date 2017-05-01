@@ -4,3 +4,9 @@ C:\Users\Melody\documents\visual studio 2017\Projects\CSharpLibrary\0.07_Methods
 C:\Users\Melody\documents\visual studio 2017\Projects\CSharpLibrary\0.07_Methods_Challenge\obj\Debug\0.07_Methods_Challenge.csprojResolveAssemblyReference.cache
 C:\Users\Melody\documents\visual studio 2017\Projects\CSharpLibrary\0.07_Methods_Challenge\obj\Debug\0.07_Methods_Challenge.exe
 C:\Users\Melody\documents\visual studio 2017\Projects\CSharpLibrary\0.07_Methods_Challenge\obj\Debug\0.07_Methods_Challenge.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.07_Methods_Challenge\bin\Debug\0.07_Methods_Challenge.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.07_Methods_Challenge\bin\Debug\0.07_Methods_Challenge.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.07_Methods_Challenge\bin\Debug\0.07_Methods_Challenge.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.07_Methods_Challenge\obj\Debug\0.07_Methods_Challenge.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.07_Methods_Challenge\obj\Debug\0.07_Methods_Challenge.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.07_Methods_Challenge\obj\Debug\0.07_Methods_Challenge.pdb

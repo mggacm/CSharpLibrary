@@ -25,7 +25,7 @@ namespace _0._06_Challenge
         {
             if (IsAvailable)
             {
-                Console.WriteLine("Yes," + FirstName + " " + LastName + " Room " + RoomNumber + " is available" )
+                Console.WriteLine("Yes," + FirstName + " " + LastName + " Room " + RoomNumber + " is available");
             }
         }
 

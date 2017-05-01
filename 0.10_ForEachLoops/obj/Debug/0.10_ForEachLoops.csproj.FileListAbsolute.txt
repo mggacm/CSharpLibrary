@@ -4,3 +4,9 @@ C:\Users\Melody\documents\visual studio 2017\Projects\CSharpLibrary\0.10_ForEach
 C:\Users\Melody\documents\visual studio 2017\Projects\CSharpLibrary\0.10_ForEachLoops\obj\Debug\0.10_ForEachLoops.csprojResolveAssemblyReference.cache
 C:\Users\Melody\documents\visual studio 2017\Projects\CSharpLibrary\0.10_ForEachLoops\obj\Debug\0.10_ForEachLoops.exe
 C:\Users\Melody\documents\visual studio 2017\Projects\CSharpLibrary\0.10_ForEachLoops\obj\Debug\0.10_ForEachLoops.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.10_ForEachLoops\bin\Debug\0.10_ForEachLoops.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.10_ForEachLoops\bin\Debug\0.10_ForEachLoops.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.10_ForEachLoops\bin\Debug\0.10_ForEachLoops.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.10_ForEachLoops\obj\Debug\0.10_ForEachLoops.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.10_ForEachLoops\obj\Debug\0.10_ForEachLoops.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.10_ForEachLoops\obj\Debug\0.10_ForEachLoops.pdb

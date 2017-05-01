@@ -14,7 +14,7 @@ namespace _0._06_Challenge
             OverPrice.RoomNumber = 32;
             OverPrice.IsAvailable = true;
             OverPrice.NumBeds = 2;
-            OverPrice.PrintCustomerName();
+            //OverPrice.PrintCustomerName();
 
 
 

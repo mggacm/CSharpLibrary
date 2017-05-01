@@ -4,3 +4,9 @@ C:\Users\Melody\Desktop\Projects\CSharpLibrary\BrainTalk.01\bin\Debug\BrainTalk.
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\BrainTalk.01\obj\Debug\BrainTalk.01.csprojResolveAssemblyReference.cache
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\BrainTalk.01\obj\Debug\BrainTalk.01.exe
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\BrainTalk.01\obj\Debug\BrainTalk.01.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\BrainTalk.01\bin\Debug\BrainTalk.01.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\BrainTalk.01\bin\Debug\BrainTalk.01.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\BrainTalk.01\bin\Debug\BrainTalk.01.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\BrainTalk.01\obj\Debug\BrainTalk.01.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\BrainTalk.01\obj\Debug\BrainTalk.01.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\BrainTalk.01\obj\Debug\BrainTalk.01.pdb

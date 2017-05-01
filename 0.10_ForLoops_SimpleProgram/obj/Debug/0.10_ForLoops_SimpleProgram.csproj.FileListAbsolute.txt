@@ -3,3 +3,9 @@ C:\Users\Melody\documents\visual studio 2017\Projects\CSharpLibrary\0.10_ForLoop
 C:\Users\Melody\documents\visual studio 2017\Projects\CSharpLibrary\0.10_ForLoops_SimpleProgram\bin\Debug\0.10_ForLoops_SimpleProgram.pdb
 C:\Users\Melody\documents\visual studio 2017\Projects\CSharpLibrary\0.10_ForLoops_SimpleProgram\obj\Debug\0.10_ForLoops_SimpleProgram.exe
 C:\Users\Melody\documents\visual studio 2017\Projects\CSharpLibrary\0.10_ForLoops_SimpleProgram\obj\Debug\0.10_ForLoops_SimpleProgram.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.10_ForLoops_SimpleProgram\bin\Debug\0.10_ForLoops_SimpleProgram.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.10_ForLoops_SimpleProgram\bin\Debug\0.10_ForLoops_SimpleProgram.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.10_ForLoops_SimpleProgram\bin\Debug\0.10_ForLoops_SimpleProgram.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.10_ForLoops_SimpleProgram\obj\Debug\0.10_ForLoops_SimpleProgram.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.10_ForLoops_SimpleProgram\obj\Debug\0.10_ForLoops_SimpleProgram.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.10_ForLoops_SimpleProgram\obj\Debug\0.10_ForLoops_SimpleProgram.pdb

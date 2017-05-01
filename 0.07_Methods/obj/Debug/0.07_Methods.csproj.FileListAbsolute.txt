@@ -1,0 +1,6 @@
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.07_Methods\bin\Debug\0.07_Methods.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.07_Methods\bin\Debug\0.07_Methods.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.07_Methods\bin\Debug\0.07_Methods.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.07_Methods\obj\Debug\0.07_Methods.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.07_Methods\obj\Debug\0.07_Methods.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.07_Methods\obj\Debug\0.07_Methods.pdb

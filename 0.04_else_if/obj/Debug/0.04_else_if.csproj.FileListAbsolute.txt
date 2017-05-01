@@ -3,3 +3,9 @@ c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_else_if
 c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_else_if\bin\Debug\0.04_else_if.pdb
 c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_else_if\obj\Debug\0.04_else_if.exe
 c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_else_if\obj\Debug\0.04_else_if.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_else_if\bin\Debug\0.04_else_if.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_else_if\bin\Debug\0.04_else_if.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_else_if\bin\Debug\0.04_else_if.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_else_if\obj\Debug\0.04_else_if.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_else_if\obj\Debug\0.04_else_if.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_else_if\obj\Debug\0.04_else_if.pdb

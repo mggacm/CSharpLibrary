@@ -1,0 +1,5 @@
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.06_Challenge\bin\Debug\0.06_Challenge.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.06_Challenge\bin\Debug\0.06_Challenge.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.06_Challenge\bin\Debug\0.06_Challenge.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.06_Challenge\obj\Debug\0.06_Challenge.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.06_Challenge\obj\Debug\0.06_Challenge.pdb

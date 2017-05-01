@@ -3,3 +3,9 @@ C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.04_Ternary\bin\Debug\0.04_Terna
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.04_Ternary\bin\Debug\0.04_Ternary.pdb
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.04_Ternary\obj\Debug\0.04_Ternary.exe
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.04_Ternary\obj\Debug\0.04_Ternary.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_Ternary\bin\Debug\0.04_Ternary.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_Ternary\bin\Debug\0.04_Ternary.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_Ternary\bin\Debug\0.04_Ternary.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_Ternary\obj\Debug\0.04_Ternary.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_Ternary\obj\Debug\0.04_Ternary.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_Ternary\obj\Debug\0.04_Ternary.pdb

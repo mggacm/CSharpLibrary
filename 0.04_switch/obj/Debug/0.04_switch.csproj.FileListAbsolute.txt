@@ -3,3 +3,9 @@ c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_switch\
 c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_switch\bin\Debug\0.04_switch.pdb
 c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_switch\obj\Debug\0.04_switch.exe
 c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_switch\obj\Debug\0.04_switch.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_switch\bin\Debug\0.04_switch.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_switch\bin\Debug\0.04_switch.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_switch\bin\Debug\0.04_switch.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_switch\obj\Debug\0.04_switch.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_switch\obj\Debug\0.04_switch.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_switch\obj\Debug\0.04_switch.pdb

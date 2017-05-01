@@ -4,3 +4,9 @@ c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.03_Strings
 c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.03_Strings\obj\Debug\0.03_Strings.csprojResolveAssemblyReference.cache
 c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.03_Strings\obj\Debug\0.03_Strings.exe
 c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.03_Strings\obj\Debug\0.03_Strings.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.03_Strings\bin\Debug\0.03_Strings.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.03_Strings\bin\Debug\0.03_Strings.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.03_Strings\bin\Debug\0.03_Strings.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.03_Strings\obj\Debug\0.03_Strings.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.03_Strings\obj\Debug\0.03_Strings.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.03_Strings\obj\Debug\0.03_Strings.pdb

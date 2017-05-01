@@ -4,3 +4,9 @@ C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.15_Structs\bin\Debug\0.15_Struc
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.15_Structs\obj\Debug\0.15_Structs.csprojResolveAssemblyReference.cache
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.15_Structs\obj\Debug\0.15_Structs.exe
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.15_Structs\obj\Debug\0.15_Structs.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.15_Structs\bin\Debug\0.15_Structs.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.15_Structs\bin\Debug\0.15_Structs.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.15_Structs\bin\Debug\0.15_Structs.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.15_Structs\obj\Debug\0.15_Structs.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.15_Structs\obj\Debug\0.15_Structs.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.15_Structs\obj\Debug\0.15_Structs.pdb

@@ -4,3 +4,9 @@ C:\Users\Melody\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Collect
 C:\Users\Melody\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Collections_Dictonaries\bin\Debug\0.10_Collections_Dictonaries.pdb
 C:\Users\Melody\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Collections_Dictonaries\obj\Debug\0.10_Collections_Dictonaries.exe
 C:\Users\Melody\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Collections_Dictonaries\obj\Debug\0.10_Collections_Dictonaries.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.10_Collections_Dictonaries\bin\Debug\0.10_Collections_Dictonaries.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.10_Collections_Dictonaries\bin\Debug\0.10_Collections_Dictonaries.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.10_Collections_Dictonaries\bin\Debug\0.10_Collections_Dictonaries.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.10_Collections_Dictonaries\obj\Debug\0.10_Collections_Dictonaries.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.10_Collections_Dictonaries\obj\Debug\0.10_Collections_Dictonaries.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.10_Collections_Dictonaries\obj\Debug\0.10_Collections_Dictonaries.pdb

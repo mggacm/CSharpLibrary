@@ -4,3 +4,9 @@ c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_ReadLin
 c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_ReadLine\obj\Debug\0.04_ReadLine.csprojResolveAssemblyReference.cache
 c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_ReadLine\obj\Debug\0.04_ReadLine.exe
 c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_ReadLine\obj\Debug\0.04_ReadLine.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_ReadLine\bin\Debug\0.04_ReadLine.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_ReadLine\bin\Debug\0.04_ReadLine.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_ReadLine\bin\Debug\0.04_ReadLine.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_ReadLine\obj\Debug\0.04_ReadLine.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_ReadLine\obj\Debug\0.04_ReadLine.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_ReadLine\obj\Debug\0.04_ReadLine.pdb

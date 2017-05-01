@@ -4,3 +4,9 @@ c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditi
 c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditional\obj\Debug\0.04_Conditional.csprojResolveAssemblyReference.cache
 c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditional\obj\Debug\0.04_Conditional.exe
 c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditional\obj\Debug\0.04_Conditional.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_Conditional\bin\Debug\0.04_Conditional.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_Conditional\bin\Debug\0.04_Conditional.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_Conditional\bin\Debug\0.04_Conditional.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_Conditional\obj\Debug\0.04_Conditional.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_Conditional\obj\Debug\0.04_Conditional.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.04_Conditional\obj\Debug\0.04_Conditional.pdb

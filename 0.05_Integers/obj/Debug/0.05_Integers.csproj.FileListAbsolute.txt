@@ -1,0 +1,5 @@
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.05_Integers\bin\Debug\0.05_Integers.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.05_Integers\bin\Debug\0.05_Integers.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.05_Integers\bin\Debug\0.05_Integers.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.05_Integers\obj\Debug\0.05_Integers.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.05_Integers\obj\Debug\0.05_Integers.pdb

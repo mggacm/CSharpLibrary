@@ -4,3 +4,9 @@ C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.07_Constructors_base\bin\Debug\
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.07_Constructors_base\bin\Debug\0.07_Constructors_base.pdb
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.07_Constructors_base\obj\Debug\0.07_Constructors_base.exe
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.07_Constructors_base\obj\Debug\0.07_Constructors_base.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.07_Constructors_base\bin\Debug\0.07_Constructors_base.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.07_Constructors_base\bin\Debug\0.07_Constructors_base.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.07_Constructors_base\bin\Debug\0.07_Constructors_base.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.07_Constructors_base\obj\Debug\0.07_Constructors_base.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.07_Constructors_base\obj\Debug\0.07_Constructors_base.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.07_Constructors_base\obj\Debug\0.07_Constructors_base.pdb

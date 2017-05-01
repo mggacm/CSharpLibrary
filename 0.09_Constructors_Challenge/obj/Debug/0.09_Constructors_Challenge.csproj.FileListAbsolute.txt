@@ -4,3 +4,9 @@ C:\Users\Melody\documents\visual studio 2017\Projects\CSharpLibrary\0.09_Constru
 C:\Users\Melody\documents\visual studio 2017\Projects\CSharpLibrary\0.09_Constructors_Challenge\obj\Debug\0.09_Constructors_Challenge.csprojResolveAssemblyReference.cache
 C:\Users\Melody\documents\visual studio 2017\Projects\CSharpLibrary\0.09_Constructors_Challenge\obj\Debug\0.09_Constructors_Challenge.exe
 C:\Users\Melody\documents\visual studio 2017\Projects\CSharpLibrary\0.09_Constructors_Challenge\obj\Debug\0.09_Constructors_Challenge.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.09_Constructors_Challenge\bin\Debug\0.09_Constructors_Challenge.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.09_Constructors_Challenge\bin\Debug\0.09_Constructors_Challenge.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.09_Constructors_Challenge\bin\Debug\0.09_Constructors_Challenge.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.09_Constructors_Challenge\obj\Debug\0.09_Constructors_Challenge.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.09_Constructors_Challenge\obj\Debug\0.09_Constructors_Challenge.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.09_Constructors_Challenge\obj\Debug\0.09_Constructors_Challenge.pdb

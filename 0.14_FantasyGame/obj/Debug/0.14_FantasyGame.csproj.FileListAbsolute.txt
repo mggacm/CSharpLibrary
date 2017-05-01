@@ -4,3 +4,9 @@ C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.14_FantasyGame\bin\Debug\0.14_F
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.14_FantasyGame\obj\Debug\0.14_FantasyGame.exe
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.14_FantasyGame\obj\Debug\0.14_FantasyGame.pdb
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.14_FantasyGame\obj\Debug\0.14_FantasyGame.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.14_FantasyGame\bin\Debug\0.14_FantasyGame.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.14_FantasyGame\bin\Debug\0.14_FantasyGame.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.14_FantasyGame\bin\Debug\0.14_FantasyGame.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.14_FantasyGame\obj\Debug\0.14_FantasyGame.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.14_FantasyGame\obj\Debug\0.14_FantasyGame.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.14_FantasyGame\obj\Debug\0.14_FantasyGame.pdb

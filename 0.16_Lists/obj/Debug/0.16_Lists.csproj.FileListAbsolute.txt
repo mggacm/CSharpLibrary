@@ -4,3 +4,9 @@ C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.16_Lists\bin\Debug\0.16_Lists.p
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.16_Lists\obj\Debug\0.16_Lists.csprojResolveAssemblyReference.cache
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.16_Lists\obj\Debug\0.16_Lists.exe
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.16_Lists\obj\Debug\0.16_Lists.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.16_Lists\bin\Debug\0.16_Lists.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.16_Lists\bin\Debug\0.16_Lists.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.16_Lists\bin\Debug\0.16_Lists.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.16_Lists\obj\Debug\0.16_Lists.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.16_Lists\obj\Debug\0.16_Lists.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.16_Lists\obj\Debug\0.16_Lists.pdb

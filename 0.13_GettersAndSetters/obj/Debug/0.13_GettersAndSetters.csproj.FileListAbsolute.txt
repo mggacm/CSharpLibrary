@@ -4,3 +4,9 @@ C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.13_GettersAndSetters\bin\Debug\
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.13_GettersAndSetters\obj\Debug\0.13_GettersAndSetters.csprojResolveAssemblyReference.cache
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.13_GettersAndSetters\obj\Debug\0.13_GettersAndSetters.exe
 C:\Users\Melody\Desktop\Projects\CSharpLibrary\0.13_GettersAndSetters\obj\Debug\0.13_GettersAndSetters.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.13_GettersAndSetters\bin\Debug\0.13_GettersAndSetters.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.13_GettersAndSetters\bin\Debug\0.13_GettersAndSetters.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.13_GettersAndSetters\bin\Debug\0.13_GettersAndSetters.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.13_GettersAndSetters\obj\Debug\0.13_GettersAndSetters.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.13_GettersAndSetters\obj\Debug\0.13_GettersAndSetters.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.13_GettersAndSetters\obj\Debug\0.13_GettersAndSetters.pdb

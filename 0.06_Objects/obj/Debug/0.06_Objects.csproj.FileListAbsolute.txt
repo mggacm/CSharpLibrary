@@ -4,3 +4,9 @@ c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.06_Objects
 c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.06_Objects\obj\Debug\0.06_Objects.csprojResolveAssemblyReference.cache
 c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.06_Objects\obj\Debug\0.06_Objects.exe
 c:\users\melody\documents\visual studio 2017\Projects\CSharpLibrary\0.06_Objects\obj\Debug\0.06_Objects.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.06_Objects\bin\Debug\0.06_Objects.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.06_Objects\bin\Debug\0.06_Objects.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.06_Objects\bin\Debug\0.06_Objects.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.06_Objects\obj\Debug\0.06_Objects.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.06_Objects\obj\Debug\0.06_Objects.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.06_Objects\obj\Debug\0.06_Objects.pdb
