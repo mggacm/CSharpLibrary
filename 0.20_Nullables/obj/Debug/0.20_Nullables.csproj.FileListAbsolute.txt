@@ -1,0 +1,6 @@
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.20_Nullables\bin\Debug\0.20_Nullables.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.20_Nullables\bin\Debug\0.20_Nullables.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.20_Nullables\bin\Debug\0.20_Nullables.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.20_Nullables\obj\Debug\0.20_Nullables.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.20_Nullables\obj\Debug\0.20_Nullables.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.20_Nullables\obj\Debug\0.20_Nullables.pdb
