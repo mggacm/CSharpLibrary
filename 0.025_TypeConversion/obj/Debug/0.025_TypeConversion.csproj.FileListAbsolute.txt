@@ -1,0 +1,6 @@
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.025_TypeConversion\bin\Debug\0.025_TypeConversion.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.025_TypeConversion\bin\Debug\0.025_TypeConversion.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.025_TypeConversion\bin\Debug\0.025_TypeConversion.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.025_TypeConversion\obj\Debug\0.025_TypeConversion.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.025_TypeConversion\obj\Debug\0.025_TypeConversion.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.025_TypeConversion\obj\Debug\0.025_TypeConversion.pdb
