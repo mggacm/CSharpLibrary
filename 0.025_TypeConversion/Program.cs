@@ -31,8 +31,9 @@ namespace _0._025_TypeConversion
             Console.WriteLine(b.ToString());
 
 
-            Console.WriteLine(0x4b);
+            Console.WriteLine(0x4b);        //hexadecimal
 
+            
 
             // Accepting Values from User
             // The Console class in the System namespace provides 
