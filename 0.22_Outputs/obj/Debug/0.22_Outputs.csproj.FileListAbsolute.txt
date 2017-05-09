@@ -1,0 +1,6 @@
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.22_Outputs\bin\Debug\0.22_Outputs.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.22_Outputs\bin\Debug\0.22_Outputs.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.22_Outputs\bin\Debug\0.22_Outputs.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.22_Outputs\obj\Debug\0.22_Outputs.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.22_Outputs\obj\Debug\0.22_Outputs.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.22_Outputs\obj\Debug\0.22_Outputs.pdb
