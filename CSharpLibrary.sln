@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.01_intro", "0.01_intro\0.01_intro.csproj", "{2947049C-25EF-42A2-954B-6D2F3675ADFD}"
 EndProject
@@ -80,6 +80,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.22_Outputs", "0.22_Outputs\0.22_Outputs.csproj", "{87D1D50C-4E71-4B8D-96C8-9C4F7F54C529}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.23_Polymorphism", "0.23_Polymorphism\0.23_Polymorphism.csproj", "{52F85289-36C1-4254-9889-BF04D52DBA03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.24_Threads", "0.24_Threads\0.24_Threads.csproj", "{430CCFE5-9155-4128-925A-C795B5B62FEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -717,6 +719,22 @@ Global
 		{52F85289-36C1-4254-9889-BF04D52DBA03}.Release|x64.Build.0 = Release|Any CPU
 		{52F85289-36C1-4254-9889-BF04D52DBA03}.Release|x86.ActiveCfg = Release|Any CPU
 		{52F85289-36C1-4254-9889-BF04D52DBA03}.Release|x86.Build.0 = Release|Any CPU
+		{430CCFE5-9155-4128-925A-C795B5B62FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{430CCFE5-9155-4128-925A-C795B5B62FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{430CCFE5-9155-4128-925A-C795B5B62FEB}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{430CCFE5-9155-4128-925A-C795B5B62FEB}.Debug|ARM.Build.0 = Debug|Any CPU
+		{430CCFE5-9155-4128-925A-C795B5B62FEB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{430CCFE5-9155-4128-925A-C795B5B62FEB}.Debug|x64.Build.0 = Debug|Any CPU
+		{430CCFE5-9155-4128-925A-C795B5B62FEB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{430CCFE5-9155-4128-925A-C795B5B62FEB}.Debug|x86.Build.0 = Debug|Any CPU
+		{430CCFE5-9155-4128-925A-C795B5B62FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{430CCFE5-9155-4128-925A-C795B5B62FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{430CCFE5-9155-4128-925A-C795B5B62FEB}.Release|ARM.ActiveCfg = Release|Any CPU
+		{430CCFE5-9155-4128-925A-C795B5B62FEB}.Release|ARM.Build.0 = Release|Any CPU
+		{430CCFE5-9155-4128-925A-C795B5B62FEB}.Release|x64.ActiveCfg = Release|Any CPU
+		{430CCFE5-9155-4128-925A-C795B5B62FEB}.Release|x64.Build.0 = Release|Any CPU
+		{430CCFE5-9155-4128-925A-C795B5B62FEB}.Release|x86.ActiveCfg = Release|Any CPU
+		{430CCFE5-9155-4128-925A-C795B5B62FEB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
