@@ -1,0 +1,6 @@
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.21_DecisionMaking\bin\Debug\0.21_DecisionMaking.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.21_DecisionMaking\bin\Debug\0.21_DecisionMaking.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.21_DecisionMaking\bin\Debug\0.21_DecisionMaking.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.21_DecisionMaking\obj\Debug\0.21_DecisionMaking.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.21_DecisionMaking\obj\Debug\0.21_DecisionMaking.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.21_DecisionMaking\obj\Debug\0.21_DecisionMaking.pdb

@@ -1,0 +1,5 @@
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.025_Destructors\bin\Debug\0.025_Destructors.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.025_Destructors\bin\Debug\0.025_Destructors.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.025_Destructors\bin\Debug\0.025_Destructors.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.025_Destructors\obj\Debug\0.025_Destructors.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.025_Destructors\obj\Debug\0.025_Destructors.pdb
