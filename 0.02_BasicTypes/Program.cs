@@ -38,6 +38,14 @@ namespace _0._02_BasicTypes
             //useful with web services, database results
 
 
+
+            Console.WriteLine(5 % 2);       // int
+            Console.WriteLine(-5 % 2);      // int
+            Console.WriteLine(5.0 % 2.2);   // double
+            Console.WriteLine(5.0m % 2.2m); // decimal
+            Console.WriteLine(-5.2 % 2.0);  // double
+
+
             Console.WriteLine(name);
             Console.WriteLine(student + " is the most chill person");
             Console.ReadLine();
