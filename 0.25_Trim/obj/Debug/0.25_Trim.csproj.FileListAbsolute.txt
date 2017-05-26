@@ -1,0 +1,5 @@
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.25_Trim\bin\Debug\0.25_Trim.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.25_Trim\bin\Debug\0.25_Trim.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.25_Trim\bin\Debug\0.25_Trim.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.25_Trim\obj\Debug\0.25_Trim.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.25_Trim\obj\Debug\0.25_Trim.pdb
