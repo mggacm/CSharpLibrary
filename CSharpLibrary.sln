@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.25_Trim", "0.25_Trim\0.25
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{5A9EDB44-95AA-4076-B35D-280A4E65AC09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.17.5_MoreLINQ", "0.17.5_MoreLINQ\0.17.5_MoreLINQ.csproj", "{315BCC04-7EC2-4280-90E5-4123FAD85969}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -789,6 +791,22 @@ Global
 		{5A9EDB44-95AA-4076-B35D-280A4E65AC09}.Release|x64.Build.0 = Release|Any CPU
 		{5A9EDB44-95AA-4076-B35D-280A4E65AC09}.Release|x86.ActiveCfg = Release|Any CPU
 		{5A9EDB44-95AA-4076-B35D-280A4E65AC09}.Release|x86.Build.0 = Release|Any CPU
+		{315BCC04-7EC2-4280-90E5-4123FAD85969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315BCC04-7EC2-4280-90E5-4123FAD85969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315BCC04-7EC2-4280-90E5-4123FAD85969}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{315BCC04-7EC2-4280-90E5-4123FAD85969}.Debug|ARM.Build.0 = Debug|Any CPU
+		{315BCC04-7EC2-4280-90E5-4123FAD85969}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{315BCC04-7EC2-4280-90E5-4123FAD85969}.Debug|x64.Build.0 = Debug|Any CPU
+		{315BCC04-7EC2-4280-90E5-4123FAD85969}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{315BCC04-7EC2-4280-90E5-4123FAD85969}.Debug|x86.Build.0 = Debug|Any CPU
+		{315BCC04-7EC2-4280-90E5-4123FAD85969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{315BCC04-7EC2-4280-90E5-4123FAD85969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{315BCC04-7EC2-4280-90E5-4123FAD85969}.Release|ARM.ActiveCfg = Release|Any CPU
+		{315BCC04-7EC2-4280-90E5-4123FAD85969}.Release|ARM.Build.0 = Release|Any CPU
+		{315BCC04-7EC2-4280-90E5-4123FAD85969}.Release|x64.ActiveCfg = Release|Any CPU
+		{315BCC04-7EC2-4280-90E5-4123FAD85969}.Release|x64.Build.0 = Release|Any CPU
+		{315BCC04-7EC2-4280-90E5-4123FAD85969}.Release|x86.ActiveCfg = Release|Any CPU
+		{315BCC04-7EC2-4280-90E5-4123FAD85969}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

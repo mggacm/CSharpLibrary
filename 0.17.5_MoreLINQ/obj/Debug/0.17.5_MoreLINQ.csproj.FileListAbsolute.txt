@@ -1,0 +1,6 @@
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.17.5_MoreLINQ\bin\Debug\0.17.5_MoreLINQ.exe.config
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.17.5_MoreLINQ\bin\Debug\0.17.5_MoreLINQ.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.17.5_MoreLINQ\bin\Debug\0.17.5_MoreLINQ.pdb
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.17.5_MoreLINQ\obj\Debug\0.17.5_MoreLINQ.csprojResolveAssemblyReference.cache
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.17.5_MoreLINQ\obj\Debug\0.17.5_MoreLINQ.exe
+C:\Users\amils\Desktop\Projects\CSharpLibrary\0.17.5_MoreLINQ\obj\Debug\0.17.5_MoreLINQ.pdb
